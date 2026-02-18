@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://github.com/rajaksuhani09/ipa-host/releases/download/v-a8fd6127711c/6b3a0521-1062-4c66-90ae-5fc60d7d6e55.ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[com.3b558.bdd09]]></string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Telegram</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
